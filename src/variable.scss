@@ -1,0 +1,7 @@
+$color: white;
+$primaryColor: red;
+
+:export {
+    colors: $color;
+    primaryColor: $primaryColor;
+}

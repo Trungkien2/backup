@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    p{
+        margin: 0;
+    }
+}
+.primary-color-text {
+    color : #DAA267;
+}
+.primary-color-bg{
+    background-color: #DAA267;
+}
+
+.mgr{
+    margin-right: 10px;
+}

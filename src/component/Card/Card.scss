@@ -1,0 +1,23 @@
+.card{
+ 
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    &-img{
+        margin: 0 auto;
+        width: 101px;
+        img{
+            width: 100%;
+        }
+    }
+    h2{
+        margin : 25px 0;
+    }
+    p{
+        margin: 25px 0;
+        font-size: 20px;
+    }
+}
+
+

@@ -1,0 +1,28 @@
+.footerld{
+    height: 266px;
+    background-color: #f9f9f9c7;
+    &__title{
+        h2{
+            color: #DAA267;
+            font-size: 40px;
+            font-weight: 600;
+            margin-bottom: 10px;
+
+        }
+        p{
+            font-size: 15px;
+        }
+    }
+    &__list{
+        h4{
+            color: #DAA267;
+        }
+        ul{
+           li{
+            &:hover{
+                color: red;
+            }
+           }
+        }
+    }
+}
